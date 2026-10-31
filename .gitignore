@@ -1,0 +1,8 @@
+/build/
+*.o
+*.obj
+*.exe
+perf.data*
+callgrind.out*
+*.html
+TODO.md
